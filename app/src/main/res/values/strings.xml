@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialPhone</string>
+    <string name="editText_phonenumber">Enter your phone number</string>
+</resources>
